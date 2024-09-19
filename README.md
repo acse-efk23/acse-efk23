@@ -1,3 +1,3 @@
 ## 🏄‍♂️ Ediz Kula
 
-I use this account to collaborate with my class mates on our masters projects, which are currently private. A summary of my contributions throughout the year can be found in commit history and activity diagrams below.
+On this account, I collaborate with my classmates on our master's projects, which are currently private. A summary of my contributions throughout the year can be found in the commit history and activity diagrams below.
